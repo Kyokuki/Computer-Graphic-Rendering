@@ -1,0 +1,7 @@
+﻿  Generate moc_predefs.h
+  MOC myglwidget.h
+CUSTOMBUILD : warning : Failed to resolve include "D:/????/????2023-1/??????/??2/CGHW2/debug/moc_predefs.h" for moc file myglwidget.h
+D:\Visual Studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(249,5): warning MSB8064: 项“debug\moc_predefs.h.cbt”的自定义生成成功，但指定的依赖项“d:\课程资料\课程资料2023-1\计算机图形学\作业3\cghw3\debug\moc_predefs.h.cbt”不存在。这可能会导致增量生成无法正常工作。
+  moc_myglwidget.cpp
+D:\课程资料\课程资料2023-1\计算机图形学\作业3\CGHW3\utils.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CGTemplate.vcxproj -> D:\课程资料\课程资料2023-1\计算机图形学\作业3\CGHW3\debug\CGTemplate.exe
